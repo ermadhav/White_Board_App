@@ -3,7 +3,7 @@ const { userJoin, getUsers, userLeave } = require("../utils/user");
 
 export default function handler(req, res) {
   if (res.socket.server.io) {
-    console.log("Socket is already running");
+    console.log("✅ Socket.IO is already running");
     res.end();
     return;
   }
@@ -12,7 +12,7 @@ export default function handler(req, res) {
   res.socket.server.io = io;
 
   let imageUrl, userRoom;
-  
+
   io.on("connection", (socket) => {
     socket.on("user-joined", (data) => {
       const { roomId, userId, userName, host, presenter } = data;

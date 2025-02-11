@@ -1,11 +1,10 @@
 {
-    "rewrites": [
-      { "source": "/socket.io", "destination": "/api" }
-    ],
-    "functions": {
-      "api/index.js": {
-        "runtime": "nodejs18.x"
-      }
+  "rewrites": [
+    { "source": "/socket.io", "destination": "/api" }
+  ],
+  "functions": {
+    "api/index.js": {
+      "runtime": "nodejs18.x"
     }
   }
-  
+}
