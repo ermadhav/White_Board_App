@@ -65,7 +65,7 @@ Just fork, code, and send a pull request! 🛠️
 
 MIT License – Use it, modify it, break it, but don’t forget to share it! 😆
 
----
+##
 
 Made with ❤️ and JavaScript by [Madhav Tiwari](https://github.com/ermadhav) ✨
 
