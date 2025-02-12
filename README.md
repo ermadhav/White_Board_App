@@ -4,7 +4,6 @@ Welcome to **White Board Project** – The ultimate online whiteboard for all yo
 
 ## 🛠️ Tech Stack
 
-- **MongoDB** - Because we love NoSQL magic! ✨📦
 - **Express.js** - Keeping things smooth on the backend! 🚀
 - **React.js** - Making the frontend slick and interactive! 🎨
 - **Node.js** - Running JavaScript everywhere! 🌎
