@@ -22,22 +22,30 @@ Welcome to **White Board Project** – The ultimate online whiteboard for all yo
 
 ## 🏗️ Installation
 
-Clone the repository:
-```sh
- git clone https://github.com/your-username/white_Board_Project.git
- cd white_Board_Project
-```
-
-Install dependencies:
-```sh
- npm install
- cd client && npm install
-```
-
-Run the app:
-```sh
- npm run dev
-```
+Clone the repo 🖥️
+bash
+Copy
+Edit
+git clone https://github.com/your-username/white_Board_Project.git
+cd white_Board_Project
+Install dependencies 📦
+bash
+Copy
+Edit
+yarn install
+Start the backend 🚀
+bash
+Copy
+Edit
+cd backend
+yarn start
+Start the frontend 🎨
+bash
+Copy
+Edit
+cd frontend
+yarn start
+Open your browser and unleash your inner artist! 🎉
 (*And boom! 💥 Your whiteboard is ready!*)
 
 ## 🤝 Contributing
