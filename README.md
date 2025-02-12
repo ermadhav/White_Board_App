@@ -52,5 +52,5 @@ MIT License – Use it, modify it, break it, but don’t forget to share it! �
 
 ---
 
-Made with ❤️ and JavaScript by [Your Name](https://github.com/ermadhav) ✨
+Made with ❤️ and JavaScript by [Madhav Tiwari](https://github.com/ermadhav) ✨
 
