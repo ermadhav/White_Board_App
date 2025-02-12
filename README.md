@@ -51,7 +51,7 @@ yarn start
 ```
 
 ### 5️⃣ Open your browser and unleash your inner artist! 🎉  
-```
+
 
 This ensures proper readability and clean formatting in **GitHub's Markdown renderer**. 🚀 Let me know if you need more tweaks! 😎
 (*And boom! 💥 Your whiteboard is ready!*)
