@@ -22,30 +22,38 @@ Welcome to **White Board Project** – The ultimate online whiteboard for all yo
 
 ## 🏗️ Installation
 
-Clone the repo 🖥️
-bash
-Copy
-Edit
+Here's the installation guide formatted properly for a **README.md** file:  
+
+```md
+## 🚀 Installation  
+
+### 1️⃣ Clone the Repository 🖥️  
+```bash
 git clone https://github.com/your-username/white_Board_Project.git
 cd white_Board_Project
-Install dependencies 📦
-bash
-Copy
-Edit
+```
+
+### 2️⃣ Install Dependencies 📦  
+```bash
 yarn install
-Start the backend 🚀
-bash
-Copy
-Edit
+```
+
+### 3️⃣ Start the Backend 🚀  
+```bash
 cd backend
 yarn start
-Start the frontend 🎨
-bash
-Copy
-Edit
+```
+
+### 4️⃣ Start the Frontend 🎨  
+```bash
 cd frontend
 yarn start
-Open your browser and unleash your inner artist! 🎉
+```
+
+### 5️⃣ Open your browser and unleash your inner artist! 🎉  
+```
+
+This ensures proper readability and clean formatting in **GitHub's Markdown renderer**. 🚀 Let me know if you need more tweaks! 😎
 (*And boom! 💥 Your whiteboard is ready!*)
 
 ## 🤝 Contributing
